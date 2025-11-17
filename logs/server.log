@@ -27,3 +27,4 @@ INFO:     172.20.0.1:56996 - "GET /api/menu?category=Secondi HTTP/1.1" 200 OK
 INFO:     172.20.0.1:56996 - "GET /api/menu?category=Dolci HTTP/1.1" 200 OK
 INFO:     172.20.0.1:56996 - "GET /api/menu?category=Secondi HTTP/1.1" 200 OK
 INFO:     172.20.0.1:56996 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48156 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
