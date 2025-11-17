@@ -1,30 +1,21 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [332] using StatReload
-INFO:     Started server process [334]
+INFO:     Started reloader process [390] using StatReload
+INFO:     Started server process [392]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:45790 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:45772 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45772 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45772 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45774 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45772 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45774 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45774 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45774 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56996 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56996 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56996 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56996 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57010 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57010 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57010 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57010 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56996 - "GET /api/menu?category=Pizza HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56996 - "GET /api/menu?category=Pasta HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56996 - "GET /api/menu?category=Secondi HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56996 - "GET /api/menu?category=Dolci HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56996 - "GET /api/menu?category=Secondi HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56996 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
-INFO:     172.20.0.1:48156 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40102 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:40098 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40098 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40098 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40098 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40116 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40116 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40116 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40116 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33044 - "GET /api/menu?category=Pizza HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33044 - "GET /api/menu?category=Pasta HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33046 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33046 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33046 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33046 - "GET /api/menu?category=Antipasti HTTP/1.1" 200 OK
